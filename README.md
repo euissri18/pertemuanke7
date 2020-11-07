@@ -69,4 +69,7 @@ angkaDec = random.uniform(0, 0.5)
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
 
+![euis3](https://user-images.githubusercontent.com/72909071/98440570-19334480-212c-11eb-8975-2539a697f7b0.png)
+
+
 
