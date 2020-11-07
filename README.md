@@ -68,5 +68,5 @@ angkaDec = random.uniform(0, 0.5)
     print("Data ke", i, " = ", angkaDec)
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
-![euis3](foto/euis3.png)
+
 
