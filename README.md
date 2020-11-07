@@ -34,4 +34,5 @@ baris = 10
 kolom = baris
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
-[Latihan](foto/euis1.png)
+
+![euis1](https://user-images.githubusercontent.com/72909071/98439976-5b5a8700-2128-11eb-94b3-fd9eb5dd55ef.png)
