@@ -4,9 +4,10 @@
 ### NIM: 312010457<br>
 
 __________________________________________________________________________________
-Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu diantaranya:
 
 ## PRAKTIKUM 1 - LATIHAN 1
+Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu diantaranya:
+![latihan](foto/euis1.png)
 Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan menghasilkan output seperti gambat diatas.
 Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
 ```python
